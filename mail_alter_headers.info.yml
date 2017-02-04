@@ -1,0 +1,4 @@
+name: Drupal 8 mail alter headers
+description: 'Demonstrates the use of the Mail API in Drupal 8.'
+core: 8.x
+type: module
